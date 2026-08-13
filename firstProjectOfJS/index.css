@@ -1,0 +1,46 @@
+body {
+    background-image: url(architecture-building-business-302769.jpg);
+    background-size: cover;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+}
+
+.hiooll {
+    text-align: center;
+    color: white;
+    font-size: 55px;
+    text-shadow: 5px 5px 5px grey;
+
+}
+
+.dis {
+    display: flex;
+    align-items: center;
+    gap: 70px;
+    font-size: 30px;
+    margin: 30px 230px;
+}
+
+.butt {
+    padding: 10px 10px;
+    border-radius: 15px;
+    font-size: 30px;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.huyygu {
+    text-align: center;
+    color: white;
+    text-shadow: 5px 5px 5px grey;
+}
+
+.hioolll {
+    text-align: center;
+    color: white;
+    font-size: 55px;
+    text-shadow: 5px 5px 5px grey;
+    margin-bottom: -30px;
+}
