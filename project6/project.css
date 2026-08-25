@@ -1,0 +1,66 @@
+* {
+    list-style: none;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body {
+    background-color: #002039;
+
+}
+
+.vimdre {
+    width: 30px;
+    height: 30px;
+
+}
+
+.maindiv {
+    margin: 100px 40%;
+}
+
+.gjhgju>:first-child {
+    color: white;
+}
+
+.gjhgju>:last-child {
+    color: #008F63;
+    text-decoration-line: underline;
+}
+
+.tryuiggi {
+    margin-top: 15px;
+    width: 120%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
+    padding-right: 10px;
+}
+
+.tryuiggi>:first-child {
+    height: 50px;
+    width: 600px;
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 10px 10px;
+
+
+
+}
+
+
+
+.gguhi {
+    display: flex;
+    align-items: center;
+    color: white;
+       background-color: #048B60;
+    margin-top: 20px;
+    width: 90%;
+    padding: 10px 15px;
+    border-radius: 15px;
+
+}
