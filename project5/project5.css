@@ -1,0 +1,73 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-color: blue;
+}
+
+.jhjjk {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+
+
+.gghfstu{
+    background-color:orangered;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+
+}
+
+.gtfuyyrteio{
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 15px;
+    width: 50%;
+
+}
+
+.yffjii{
+    border: 3px solid white;
+    width: 350px;
+    height: 250px;
+    margin: 80px 40%;
+    border-radius: 30px;
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 20px;
+
+}
+ul li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 250px;
+}
+
+ span{
+    font-size: 20px;
+    cursor: pointer;
+    padding: 5px;
+
+}
+span:hover{
+    background-color: antiquewhite;
+}
+
+.huygyugy {
+    /* display: flex;
+    align-items: center; */
+    /* margin: 10px; */
+    text-decoration: line-through;
+
+    /* gap: 10px; */
+
+}
