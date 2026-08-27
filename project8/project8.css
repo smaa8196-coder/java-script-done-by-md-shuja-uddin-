@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background-color: #4B27C9;
+}
+
+span{
+    color: #FFF22E;
+    font-size: 40px;
+}
+
+h1{
+    color:white;
+    font-size: 40px;
+
+}
+
+.jjguui{
+     margin: 40px 30%;
+}
+
+.gfjgyik{
+    background-color: #9B8BE4;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    /* padding: 20px; */
+    margin-top:20px ;
+    border-radius: 13px;
+    text-align: center;
+    justify-content: center;
+    padding: 30px 0px;
+
+}
+
+.gfjgyik>:first-child{
+  
+    width: 70%;
+    height: 50px;
+    font-size: 25px;
+    border-radius: 13px;
+}
+button{
+    padding: 18px;
+    border-radius: 13px;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
