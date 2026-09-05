@@ -1,0 +1,40 @@
+.fjygjg{
+    background-image: url(istockphoto-1403500817-612x612.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    text-align: center;
+    padding: 10px;
+    margin: 50px 40%;
+    padding-top: 70px;
+
+}
+
+.hjhkjh{
+    margin-top: 20px;
+    color: rgb(108, 52, 52);
+    font-size: 60px;
+
+}
+
+.hgjk{
+    padding:10px;
+    border-radius: 100%;
+    margin-top: 20px;
+     width: 20px;
+    height: 20px;
+    border: 3px solid white
+}
+
+.fjhgj{
+     padding: 10px;
+    border-radius: 100%;
+    background-color:orangered;
+    fill: white;
+    width: 40px;
+    height: 40px;
+    margin:0px 20px ;
+}
