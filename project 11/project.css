@@ -1,0 +1,88 @@
+body {
+    background-color: black;
+}
+
+.gfyfuy {
+    background-color: #0B3445;
+    width: 350px;
+    height: 510px;
+    text-align: center;
+    margin: 70px 35%;
+    padding-top: 30px;
+    border-radius: 30px;
+}
+
+.ghgkjhk {
+    width: 250px;
+    height: 250px;
+    border-radius: 60px;
+}
+p{
+    color: white;
+    font-size: large;
+    font-weight: 600;
+}
+.yufyd {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.hfh {
+    padding: 10px;
+    border-radius: 100%;
+    background-color: white;
+    fill:#07232E;
+    height: 20px;
+    width: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+}
+
+#pro {
+    appearance: none;
+    -webkit-appearance: none;
+    width: 75%;
+    height: 6px;
+    cursor: pointer;
+    background-color: #07232E;
+
+}
+
+#pro::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 100%;
+}
+
+.gfhjfj {
+    height: 40px;
+    width: 40px;
+    background-color: #07232E;
+    padding: 15px;
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.dffj {
+    height: 25px;
+    width: 25px;
+    background-color: white;
+    padding: 15px;
+    fill: #07232E;
+    border-radius: 100%;
+}
+
+.jhjgkj{
+    display: none;
+}
+
+.tryuf{
+    margin-top: 10px;
+}
