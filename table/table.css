@@ -1,0 +1,118 @@
+:root {
+    --primary-color: #edf2fc;
+    --secondary-color: #212121;
+
+
+}
+
+.darkmood {
+    --primary-color: #212121;
+    --secondary-color: #fff;
+}
+
+body {
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+}
+
+.inbj {
+    width: 50px;
+    height: 50px;
+
+}
+
+table {
+    border: 1px solid var(--secondary-color);
+    border-collapse: collapse;
+
+}
+
+th,
+td {
+    border: 1px solid var(--secondary-color);
+    padding: 10px;
+    text-align: center;
+}
+
+.message {
+    display: none;
+}
+
+button {
+    /* width: 50%;
+    height: 50%; */
+    background-color: red;
+    color: var(--primary-color);
+    /* margin-top: 100px; */
+    margin-bottom: 10px;
+}
+
+.button23 {
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+    color: var(--primary-color);
+    margin-top: 10px;
+    /* margin-bottom: 30px; */
+    display: none;
+}
+
+.red {
+    background-color: red;
+    width: 50%;
+    height: 50%;
+    font-size: 60px;
+    margin-top: 100px;
+    margin-left: 25%;
+    margin-right: 30%;
+
+}
+
+.yellow {
+    background-color: yellow;
+    display: none;
+    width: 50%;
+    height: 50%;
+    font-size: 60px;
+    margin-top: 100px;
+    margin-left: 25%;
+    margin-right: 30%;
+}
+
+.green {
+    background-color: green;
+    display: none;
+    width: 50%;
+    height: 50%;
+    font-size: 60px;
+    margin-top: 100px;
+    margin-left: 25%;
+    margin-right: 30%;
+
+}
+
+.ppoo {
+    font-size: 70px;
+    margin-top: 100px;
+    margin-left: 35%;
+    margin-right: 30%;
+}
+
+.image {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    background-color: lightblue;
+    /* display: inline; */
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+
+}
+
+.image2 {
+    border-radius: 40px;
+    width: 250px;
+    height: 250px;
+}
